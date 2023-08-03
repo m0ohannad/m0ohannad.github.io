@@ -16,6 +16,7 @@
     --second-bg-color: #284b63;
     --text-color: #ededed;
     --main-color: #41D9D9;
+    color-scheme: light only;
 }
 
 html {
